@@ -1,8 +1,7 @@
-### Hi there 👋, I'm Chandra 🖥
-
-#### I'm a Software Engineer and ❤️ everything about the software development world!
+### Hello! I'm Chandra 👋 💻
 
 ![I'm a Software Engineer and ❤️ everything about the software development world! ](https://github.com/chandrakumarreddy/chandrakumarreddy/blob/master/banner.png)
+I'm a Software Engineer and ❤️ everything about the software development world!
 
 - 🔭 I’m always working on: Improving my skills
 - 🌱 I’m currently learning python, data structures , IOS
