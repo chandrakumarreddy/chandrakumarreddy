@@ -2,7 +2,7 @@
 
 #### I'm a Software Engineer and ❤️ everything about the software development world!
 
-![I'm a Software Engineer and ❤️ everything about the software development world! ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a Software Engineer and ❤️ everything about the software development world! ](https://github.com/chandrakumarreddy/chandrakumarreddy/blob/master/banner.png)
 
 - 🔭 I’m always working on: Improving my skills
 - 🌱 I’m currently learning python, data structures , IOS
