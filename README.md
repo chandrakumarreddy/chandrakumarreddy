@@ -1,18 +1,23 @@
 ### Hello! I'm Chandra 👋 💻
 
-![I'm a Software Engineer and ❤️ everything about the software development world! ](https://github.com/chandrakumarreddy/chandrakumarreddy/blob/master/banner.png)
+![Profile Banner](https://github.com/chandrakumarreddy/chandrakumarreddy/blob/master/banner.png)
 I'm a Software Engineer and ❤️ everything about the software development world! I'm keen on improving my skills and love helping others learn 💯
 
-- 🔭 I’m always working on: Improving my skills
-- 🌱 I’m currently learning python, data structures , IOS
-- ⚡ Fun fact: FullStack development is my priority
-- 📫 How to reach me: chandrapenugonda655@gmail.com
-- 😄 Pronouns: He/Him
-
-Skills: REACT NATIVE / REACT / NODEJS / PYTHON / JS / HTML / CSS
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chandrakumarreddy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chandrakumarreddy/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](chandrakumarreddy.github.io)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/747148f763c44af)
+- 🔭 I’m always working on: **_Improving my skills_**
+- 🌱 I’m currently learning **_Python, data structures , IOS_**
+- ⚡ Fun fact: **_FullStack development is my priority_**
+- 💬 Ask me about **_Anything!_**
+- 😄 Pronouns: **_He/Him_**
+- ⚡ Skills: **_Javascript,React Native,React,Node,Python, algo && datastructures_**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chandrakumarreddy&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/chandrakumarreddy)
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+## Connect with me on the web 🌐
+
+- [![GitHub followers](https://img.shields.io/github/followers/luvuong-le.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/chandrakumarreddy?tab=followers)
+- <a href="https://twitter.com/747148f763c44af"><img src="https://img.shields.io/twitter/follow/coderarchive?label=Twitter&style=social" alt="Twitter"></a>
+- <a href="https://www.linkedin.com/in/lu-vuongle"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
