@@ -1,4 +1,4 @@
-### Hello! I'm Chandra 👋 💻
+# Hello! I'm Chandra 👋 💻
 
 ![Profile Banner](https://github.com/chandrakumarreddy/chandrakumarreddy/blob/master/banner.png)
 I'm a Software Engineer and ❤️ everything about the software development world! I'm keen on improving my skills and love helping others learn 💯
