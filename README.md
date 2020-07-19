@@ -1,13 +1,13 @@
 ### Hello! I'm Chandra 👋 💻
 
 ![I'm a Software Engineer and ❤️ everything about the software development world! ](https://github.com/chandrakumarreddy/chandrakumarreddy/blob/master/banner.png)
-I'm a Software Engineer and ❤️ everything about the software development world!
+I'm a Software Engineer and ❤️ everything about the software development world! I'm keen on improving my skills and love helping others learn 💯
 
 - 🔭 I’m always working on: Improving my skills
 - 🌱 I’m currently learning python, data structures , IOS
 - ⚡ Fun fact: FullStack development is my priority
 - 📫 How to reach me: chandrapenugonda655@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 
 Skills: REACT NATIVE / REACT / NODEJS / PYTHON / JS / HTML / CSS
 
