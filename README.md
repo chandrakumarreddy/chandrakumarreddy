@@ -20,4 +20,4 @@ I'm a Software Engineer and ❤️ everything about the software development wor
 
 - [![GitHub followers](https://img.shields.io/github/followers/luvuong-le.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/chandrakumarreddy?tab=followers)
 - <a href="https://twitter.com/747148f763c44af"><img src="https://img.shields.io/twitter/follow/coderarchive?label=Twitter&style=social" alt="Twitter"></a>
-- <a href="https://www.linkedin.com/in/lu-vuongle"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+- <a href="https://www.linkedin.com/in/chandrakumarreddy/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
