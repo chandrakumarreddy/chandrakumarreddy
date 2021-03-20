@@ -4,11 +4,11 @@
 I'm a Software Engineer and ❤️ everything about the software development world! I'm keen on improving my skills and love helping others learn 💯
 
 - 🔭 I’m always working on: **_Improving my skills_**
-- 🌱 I’m currently learning **_Python, data structures , IOS_**
+- 🌱 I’m currently learning **Nodejs, GO , data structures , IOS_**
 - ⚡ Fun fact: **_FullStack development is my priority_**
 - 💬 Ask me about **_Anything!_**
 - 😄 Pronouns: **_He/Him_**
-- ⚡ Skills: **_Javascript,React Native,React,Node,Python, algo && datastructures_**
+- ⚡ Skills: **_Javascript,React,Node,GO, algo && datastructures_**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=chandrakumarreddy&show_icons=true)
 
