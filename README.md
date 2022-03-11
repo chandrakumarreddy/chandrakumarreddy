@@ -1,7 +1,9 @@
-## 😎 Hey! nice to see you. 
 
-#### Welcome to my page
-#### I'm Chandra, Software Engineer from 🌴 Bangalore, India
+![github-header-image](https://user-images.githubusercontent.com/24401376/157905932-1fe9f11e-628f-407f-8ecc-802f658e2391.png)
+
+## 😎 nice to see you. 
+
+#### Welcome to my page 
 
 ### Things I code with
 <p>
